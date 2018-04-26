@@ -1,0 +1,12 @@
+
+print("My First Python program")
+a = int(input("value of a : "))
+print ("a")
+if a%2 ==0 :
+	print("dsfdf");
+else:
+	print("2455445");
+
+for i in range(0,3):
+	print("hdjkhdhdhfk " %(i))
+
